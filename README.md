@@ -1,16 +1,15 @@
-### Hi there 👋
+## :hammer_and_wrench: Bienvenue chez logic fabric ! (english below)
 
-<!--
-**logic-fabric/logic-fabric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[logic fabric](https://logic-fabric.github.io/logic-fabric) est un **atelier de développement web**.
 
-Here are some ideas to get you started:
+Nous développons principalement des *landing pages* et nous façonnons des *design systems* au code prêt à l'emploi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nos principales technos sont **Python/Django**, **Python/Flask** et, bien évidemment, **HTML**, **CSS** et **JavaScript**.
+
+## :hammer_and_wrench: Welcome to logic fabric!
+
+[logic fabric](https://logic-fabric.github.io/logic-fabric) is a **french web development workshop**.
+
+We mainly develop graphic landing pages and we shape fully coded design systems, ready to use.
+
+Our main technologies are **Python/Django**, **Python/Flask** and, obvisously, **HTML**, **CSS** and **JavaScript**.
